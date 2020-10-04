@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.20.0",
+    "fs": "0.0.1-security",
     "inquirer": "^6.5.2",
     "prompt": "^1.0.0",
     "question": "0.0.1"
