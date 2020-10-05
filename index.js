@@ -19,7 +19,14 @@ const questions = [
 
 // function to write README file
 function writeToFile(fileName, data) {
+  fs.writeFile(fileName, data, utf8, function (err){
+  if (err){
+    throw err;
+  }
+   console.log("You have successfullly generated your ReadMe")
+});
 }
+
 
 // function to initialize program
 function init() {
