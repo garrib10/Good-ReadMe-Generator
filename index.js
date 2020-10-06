@@ -3,15 +3,6 @@ const fs = require('fs');
 const path = require("path");
 const generateMarkdown = require("./utils/generateMarkdown")
 
-// Questions // 
-// Title // 
-// Description  // 
-// Table of Contents // 
-// Installation // 
-// Usage  // 
-// License  // 
-// Contributing  // 
-// Tests  // 
 
 // Questions for the Read Me Generator  // 
 const questions = [
