@@ -67,6 +67,11 @@ const questions = [
         message: "What is the command to run test?",
         name: "test",
     },
+    {
+      type:"input",
+      message: "Have any questions?",
+      name:"questions",
+    }
 ];
 
 // function to write README file
