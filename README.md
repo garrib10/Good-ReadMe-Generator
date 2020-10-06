@@ -1,8 +1,8 @@
-# dfdf
+# ReadMe-Generator
   
   
   ## Description
-  dfd
+  This application helps create a readme file with information collected by the user input 
 
   ## Table of Contents
   * [Installation](#installation)
@@ -13,10 +13,10 @@
   * [Questions](#questions)
 
   ## Installation
-  dfd
+  install inquirer package and axios package. Then you  type "run npm install" . 
 
   ## Usage 
-  dfd
+  To help generate ReadMe.md for your github repository
 
   ## License
   MIT
@@ -25,11 +25,11 @@
   
 
   ## Tests
-  dfd
+  npm run test 
   
   
   ## Contributors
-  df
+  Brian Garrity
 
   ## Questions
-  dfd
+   If so you can contact me at garrib10@gmail.com\
