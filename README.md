@@ -1,8 +1,8 @@
-# fdd
+# fd
   
   
   ## Description
-  ffdfd
+  dfd
 
   ## Table of Contents
   * [Installation](#installation)
@@ -13,13 +13,14 @@
   * [Questions](#questions)
 
   ## Installation
-  dfdf
+  df
 
   ## Usage 
-  dfdfd
+  df
 
   ## License
   MIT
+  
   ![github license](https://img.shields.io/badge/license-MIT-blue.svg)
   
 
@@ -28,7 +29,7 @@
   
   
   ## Contributors
-  fdfd
+  dfd
 
   ## Questions
   undefined
