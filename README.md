@@ -33,3 +33,5 @@
 
   ## Questions
   If so you can contact me at garrib10@gmail.com 
+
+  Walk through video: https://drive.google.com/file/d/1UaBtr0I9ooHa7CiBwW2xWyybpozq3t3Y/view 
