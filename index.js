@@ -1,6 +1,7 @@
 const inquirer = require("inquirer");
-const axios = require("axios");
 const fs = require('fs');
+const path = require("path");
+const generateMarkdown = require("./utils/generateMarkdown")
 
 // Questions // 
 // Title // 
@@ -21,7 +22,7 @@ const questions = [
     },
     {
         type: "input",
-        message: "Waht is your email address?",
+        message: "Whatt is your email address?",
         name: "email",
 
     },
@@ -51,9 +52,10 @@ const questions = [
         name: "usage",
     },
     {
-        type: "input",
+        type: "list",
         message: "What License will you be using?",
         name: "license",
+        choices:["MIT","APACHE","GPL","ISC"]
     },
     {
         type: "input",
@@ -61,27 +63,25 @@ const questions = [
         name: "contributors",
     },
     {
-        type: "checkbox",
-        message: "Are you ready to run the test?",
-        choices: ["Yes", "No"],
+        type: "input",
+        message: "What is the command to run test?",
         name: "test",
     },
 ];
 
 // function to write README file
 function writeToFile(fileName, data) {
-    fs.writeFile(fileName, data, utf8, function (err) {
-        if (err) {
-            return err;
-        }
-        console.log("You have successfullly generated your ReadMe")
-    });
+    return fs.writeFileSync(path.join(process.cwd(), fileName), data)
+   
 }
 
 
 // function to initialize program
 function init() {
-
+ inquirer.prompt(questions).then(function(answers) {
+     console.log(answers)
+     writeToFile("README.md", generateMarkdown(answers))
+ })
 }
 
 // function call to initialize program
