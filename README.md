@@ -1,4 +1,4 @@
-# ReadMe-Generator
+# Good-ReadME-Generator 
   
   
   ## Description
@@ -13,10 +13,10 @@
   * [Questions](#questions)
 
   ## Installation
-  install inquirer package and axios package. Then you  type "run npm install" . 
+  install inquirer package. then you type "run npm install" 
 
   ## Usage 
-  To help generate ReadMe.md for your github repository
+  To help generate ReadMe.md for your github repository 
 
   ## License
   MIT
@@ -29,7 +29,7 @@
   
   
   ## Contributors
-  Brian Garrity
+  Brian Garrity 
 
   ## Questions
-   If so you can contact me at garrib10@gmail.com\
+  If so you can contact me at garrib10@gmail.com 
