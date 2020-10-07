@@ -86,3 +86,8 @@ You are required to submit the following:
 * A sample README.md file : https://github.com/garrib10/Good-ReadMe-Generator/blob/main/README.md
 
 * The URL of the GitHub repository: https://github.com/garrib10/Good-ReadMe-Generator
+
+<img width="1197" alt="Terminal Screenshot 1" src="https://user-images.githubusercontent.com/68867054/95286749-28278e00-0832-11eb-895f-d17e08c7608f.png">
+
+
+<img width="1221" alt="Terminal Screenshot 2 " src="https://user-images.githubusercontent.com/68867054/95286789-45f4f300-0832-11eb-8bc0-0f6be2f19372.png">
