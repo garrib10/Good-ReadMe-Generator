@@ -1,5 +1,6 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
+  const avatar = `https://github.com/${data.username}.png?size=50`;
   return `# ${data.title}
   
   
@@ -34,7 +35,10 @@ function generateMarkdown(data) {
   ${data.contributors}
 
   ## Questions
-  ${data.questions}
+  \n![Profile Image](${avatar})
+  \nView the project in Github : ${data.url}
+  \nYou can contact me directly at ${data.email}
+   
 `;
 }
 

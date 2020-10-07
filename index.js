@@ -13,9 +13,14 @@ const questions = [
     },
     {
         type: "input",
-        message: "Whatt is your email address?",
+        message: "What is your email address?",
         name: "email",
 
+    },
+    {  type:"input",
+       message:"What is your Github URL for your Project",
+       name:"url",
+        
     },
     {
         type: "input",
@@ -55,7 +60,7 @@ const questions = [
     },
     {
         type: "input",
-        message: "What is the command to run test?",
+        message: "What is the command to perform a test?",
         name: "test",
     },
     {
