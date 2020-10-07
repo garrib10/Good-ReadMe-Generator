@@ -1,8 +1,11 @@
 # ReadMe-Generator 
   
   
+  
   ## Description
   This application helps create a readme file with information collected by the user input. After intiating node index.js, you will be asked a series of questions that will generate the ReadMe.md file.
+
+ 
 
   ## Table of Contents
   * [Installation](#installation)
@@ -13,7 +16,7 @@
   * [Questions](#questions)
 
   ## Installation
-  You will need to install inquierer package and fs package. After that you will type run npm install.
+  You will need to install inquierer package and fs package. After that you will type run npm install 
 
   ## Usage 
   It will help you generate a ReadMe.md file for your github repository.
@@ -25,11 +28,13 @@
   
 
   ## Tests
-  npm run test 
+  npm run test if applicable. 
   
+  
+Walkthrough Video Link:https://drive.google.com/file/d/1UaBtr0I9ooHa7CiBwW2xWyybpozq3t3Y/view
   
   ## Contributors
-  Brian Garrity 
+  Brian Garrity
 
   ## Questions
   
