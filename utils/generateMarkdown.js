@@ -36,10 +36,10 @@ function generateMarkdown(data) {
   ${data.contributors}
 
   ## Questions
-  \n![badge](${gitHub})
   \n![Profile Image](${picture})
-  \nView the project in Github : ${data.url}
-  \nYou can contact me directly at ${data.email}
+  \n![badge](${gitHub})
+  \nView my Github profile : ${data.url}
+  \nYou can contact me at ${data.email}
    
 `;
 }

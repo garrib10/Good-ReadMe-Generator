@@ -1,4 +1,4 @@
-# ReadMe-Generator
+# ReadMe-Generator 
   
   
   ## Description
@@ -16,7 +16,7 @@
   You will need to install inquierer package and fs package. After that you will type run npm install.
 
   ## Usage 
-   It will help you generate a ReadMe.md file for your github repository.
+  It will help you generate a ReadMe.md file for your github repository.
 
   ## License
   MIT
@@ -29,15 +29,15 @@
   
   
   ## Contributors
-  Brian Garrity
+  Brian Garrity 
 
   ## Questions
   
-![badge](https://img.shields.io/badge/Github-undefined-blue)
+![Profile Image](https://github.com/garrib10.png?size=50)
   
-![Profile Image](https://github.com/undefined.png?size=50)
+![badge](https://img.shields.io/badge/Github-garrib10-blue)
   
-View the project in Github : https://github.com/garrib10/Good-ReadMe-Generator
+View my Github profile : https://github.com/garrib10
   
-You can contact me directly at garrib10@gmail.com
+You can contact me at garrib10@gmail.com
    
