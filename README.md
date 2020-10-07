@@ -25,7 +25,7 @@
   
 
   ## Tests
-  npm run test if testing this application. 
+  npm run test 
   
   
   ## Contributors
@@ -33,7 +33,7 @@
 
   ## Questions
   
-![badge](https://img.shields.io/badge/Github-undefined-4cbbb9)
+![badge](https://img.shields.io/badge/Github-undefined-blue)
   
 ![Profile Image](https://github.com/undefined.png?size=50)
   
