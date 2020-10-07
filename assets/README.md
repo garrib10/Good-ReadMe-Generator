@@ -83,7 +83,6 @@ You are required to submit the following:
 
 * Walkthrough Video Link: https://drive.google.com/file/d/1UaBtr0I9ooHa7CiBwW2xWyybpozq3t3Y/view 
 
-* A sample README.md file for a project repository generated using your application.
+* A sample README.md file : https://github.com/garrib10/Good-ReadMe-Generator/blob/main/README.md
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
+* The URL of the GitHub repository: https://github.com/garrib10/Good-ReadMe-Generator
